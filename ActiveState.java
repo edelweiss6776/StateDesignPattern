@@ -1,4 +1,4 @@
-package statePattern;
+package StatePattern;
 
 public class ActiveState implements AccountState {
 
